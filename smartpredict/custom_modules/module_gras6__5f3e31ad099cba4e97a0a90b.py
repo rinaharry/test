@@ -8,7 +8,7 @@
 
 # ------------------------------------------------- CONFIGURATION ------------------------------------------------------
 # Follow this convention when specifying the configuration of your module.
-# The name of each input and output are up to you, but the structure of each one of them should be the same.
+
 from logging import Logger
 
 configuration = {
