@@ -1,7 +1,6 @@
 
 
-#lfdsfsdfsfd
-
+#alaivo za
 from logging import Logger
 
 configuration = {
