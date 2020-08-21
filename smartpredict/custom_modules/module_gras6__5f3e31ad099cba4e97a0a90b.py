@@ -1,6 +1,6 @@
 
 
-#lova be
+#ltay ty
 
 from logging import Logger
 
