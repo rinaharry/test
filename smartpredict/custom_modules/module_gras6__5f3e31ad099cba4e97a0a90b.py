@@ -1,7 +1,7 @@
 
 
 # -----dsqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq-------------------------------------------- CONFIGURATION ------------------------------------------------------
-# Follow this convention when specifying the configuration of your module.
+#  vaky loha.
 
 from logging import Logger
 
