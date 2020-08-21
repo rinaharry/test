@@ -1,6 +1,6 @@
 
 
-# ------------------------------------------------- CONFIGURATION ------------------------------------------------------
+# -----dsqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq-------------------------------------------- CONFIGURATION ------------------------------------------------------
 # Follow this convention when specifying the configuration of your module.
 
 from logging import Logger
