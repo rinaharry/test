@@ -1,9 +1,3 @@
-# ---------------------------------------------------- IMPORTS ---------------------------------------------------------
-# Your import statements can be written here.
-# All builtins python package can be imported.
-# Popular libraries for ML like tensorflow, sklearn,
-# pandas, nltk are also supported.
-# ----------------------------------------------------------------------------------------------------------------------
 
 
 # ------------------------------------------------- CONFIGURATION ------------------------------------------------------
