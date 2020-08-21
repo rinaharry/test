@@ -1,7 +1,6 @@
 
 
-# -----dsqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq-------------------------------------------- CONFIGURATION ------------------------------------------------------
-#  vaky loha.
+#mammay 
 
 from logging import Logger
 
